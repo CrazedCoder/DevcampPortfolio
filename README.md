@@ -19,7 +19,7 @@ end
 
 ### Java Code Example
 ```java
-  public string myMethod {
+  public String myMethod {
     String phrase = "Here is my java code!";
     return phrase;
   }
